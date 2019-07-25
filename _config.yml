@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: "https://nasil2n.github.io"
-baseurl: 
+baseurl: ""
 
 # variables
 name: Been's
