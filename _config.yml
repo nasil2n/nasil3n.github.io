@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: "https://nasil2n.github.io"
+baseurl: 
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Been's
+description: Hello!
 google_verification: null
 
 
@@ -23,3 +23,4 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
+remote_theme : h01000110/windows-95
