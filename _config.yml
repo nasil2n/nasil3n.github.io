@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon"  #"default, "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Been"
+title                    : "Wayfarer" 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Been"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Been"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am interested in ML,DL.\nWorking in KITECH."
+  bio              : "I am interested in ML,DL,Optimization. \n Working in KITECH."
   location         : "SUWON - Repubilc of Korea"
   email            :
   links:
